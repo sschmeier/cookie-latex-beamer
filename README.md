@@ -13,7 +13,7 @@ conda install cookiecutter
 
 ```bash
 # first time
-cookiecutter git@gitlab.com:sschmeier/cookie-latex-beamer.git
+cookiecutter git@github.com:sschmeier/cookie-latex-beamer.git
 
 # subsequent use
 cookiecutter cookie-latex
